@@ -1,7 +1,7 @@
-import MatrixBackground from '@/components/MatrixBackground'
+import MatrixBackground from '../components/MatrixBackground'
 
 export const metadata = {
-    title: 'Under Construction | TextVision',
+    title: 'Under Construction | Sentryx',
     description: 'This section is currently under development.'
 }
 
