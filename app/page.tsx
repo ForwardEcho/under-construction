@@ -1,4 +1,4 @@
-import MatrixBackground from '../components/MatrixBackground'
+import MatrixBackground from '../components/MatrixBackground.jsx'
 
 export const metadata = {
     title: 'Under Construction | Sentryx',
