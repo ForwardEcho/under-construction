@@ -16,7 +16,7 @@ export default function MatrixBackground() {
         resize()
         window.addEventListener('resize', resize)
 
-        const letters = 'c0ded'
+        const letters = '01Sentryx'
         const fontSize = 14
         const columns = canvas.width / fontSize
         const drops = Array(Math.floor(columns)).fill(1)
